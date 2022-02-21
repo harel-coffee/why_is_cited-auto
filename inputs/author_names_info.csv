@@ -1,0 +1,166 @@
+name;Nationality;Ptobability;W_E;low;high;Total;frac
+lai;EastAsian-Chinese;0,98;Asia;38;6;44;0,863636364
+buonavoglia;Hispanic-Portuguese;0,31;Europe;27;7;34;0,794117647
+joo;EastAsian-South Korea;0,8;Asia;25;8;33;0,757575758
+nicola;European-Italian-Italy;0,58;Europe;26;9;35;0,742857143
+ling;EastAsian-Chinese;;Asia;34;13;47;0,723404255
+ho;EastAsian-Indochina-Vietnam;0,56;Asia;26;11;37;0,702702703
+shen;EastAsian-Chinese;0,9;Asia;26;11;37;0,702702703
+yee;EastAsian-Chinese;0,97;Asia;26;12;38;0,684210526
+su;EastAsian-Indochina-Myanmar;0,45;Asia;28;15;43;0,651162791
+yuan;EastAsian-Chinese;0,68;Asia;35;19;54;0,648148148
+yong;EastAsian-Chinese;0,62;Asia;28;16;44;0,636363636
+min;EastAsian-South Korea;0,49;Asia;25;15;40;0,625
+ming;EastAsian-Chinese;0,98;Asia;47;29;76;0,618421053
+hui;EastAsian-Chinese;0,99;Asia;30;20;50;0,6
+talbot;Celtic-English;0,72;Europe;21;14;35;0,6
+stephen;Celtic-English;0,6;Europe;21;15;36;0,583333333
+wu;EastAsian-Chinese;0,97;Asia;56;41;97;0,577319588
+chun;EastAsian-Chinese;0,98;Asia;23;17;40;0,575
+weiss susan;European-French;0,37;Europe;32;24;56;0,571428571
+zhu;EastAsian-Chinese;0,7;Asia;20;15;35;0,571428571
+weiss;European-German;0,83;Europe;33;25;58;0,568965517
+pierre;European-French;1;Europe;21;16;37;0,567567568
+chi;EastAsian-Indochina-Vietnam;0,66;Asia;19;15;34;0,558823529
+makino shinji;EastAsian-Japan;0,43;Asia;20;16;36;0,555555556
+makino;EastAsian-Japan;;Asia;20;16;36;0,555555556
+lin;EastAsian-Chinese;0,97;Asia;56;45;101;0,554455446
+wei;EastAsian-Chinese;0,93;Asia;47;38;85;0,552941176
+chang;EastAsian-Chinese;0,9;Asia;42;34;76;0,552631579
+shinji;EastAsian-Japan;0,81;Asia;21;17;38;0,552631579
+chen;EastAsian-Chinese;0,96;Asia;90;73;163;0,552147239
+zhang;EastAsian-Chinese;0,83;Asia;76;62;138;0,550724638
+maria;Hispanic-Portuguese;0,6;Europe;38;31;69;0,550724638
+kim;EastAsian-South Korea;0,79;Asia;45;37;82;0,548780488
+lee;EastAsian-Chinese;0,4;Asia;42;35;77;0,545454545
+hong;EastAsian-Indochina-Vietnam;0,95;Asia;31;27;58;0,534482759
+yun;EastAsian-South Korea;0,65;Asia;17;15;32;0,53125
+brian;African-EastAfrican;0,54;Africa;31;28;59;0,525423729
+wen;EastAsian-Chinese;0,85;Asia;21;19;40;0,525
+tan;EastAsian-Chinese;0,62;Asia;32;30;62;0,516129032
+han;Muslim-Nubian;0,39;Africa;18;17;35;0,514285714
+lu;Hispanic-Portuguese;0,48;Europe;35;34;69;0,507246377
+ping;EastAsian-Chinese;0,96;Asia;25;25;50;0,5
+dong;EastAsian-Indochina-Vietnam;0,97;Asia;22;22;44;0,5
+xiao;EastAsian-Chinese;0,71;Asia;20;20;40;0,5
+song;EastAsian-South Korea;0,76;Asia;17;17;34;0,5
+xu;EastAsian-Chinese;0,61;Asia;28;29;57;0,49122807
+ng;EastAsian-Chinese;0,83;Asia;18;19;37;0,486486486
+holmes;Celtic-English;0,77;Europe;16;17;33;0,484848485
+liu;EastAsian-Chinese;0,97;Asia;89;96;185;0,481081081
+michael;Celtic-English;0,36;Europe;68;74;142;0,478873239
+richard;Celtic-English;0,42;Europe;20;22;42;0,476190476
+scott;Celtic-English;0,99;Europe;18;20;38;0,473684211
+wang;EastAsian-Chinese;0,97;Asia;92;104;196;0,469387755
+liang;EastAsian-Chinese;0,9;Asia;15;17;32;0,46875
+zhao;EastAsian-Chinese;0,78;Asia;37;42;79;0,46835443
+martin;Celtic-English;0,49;Europe;20;23;43;0,465116279
+kathryn;Celtic-English;0,95;Europe;19;22;41;0,463414634
+david;Celtic-English;0,36;Europe;62;72;134;0,462686567
+ying;EastAsian-Chinese;0,98;Asia;30;35;65;0,461538462
+gao;EastAsian-Chinese;0,72;Asia;18;21;39;0,461538462
+yu;EastAsian-Japan;0,58;Asia;51;60;111;0,459459459
+james;Celtic-English;0,85;Europe;27;32;59;0,457627119
+marc;European-French;0,94;Europe;15;18;33;0,454545455
+bo;EastAsian-Indochina-Myanmar;0,25;Asia;15;18;33;0,454545455
+lei;EastAsian-Chinese;0,88;Asia;15;18;33;0,454545455
+thomas;Celtic-English;0,55;Europe;45;55;100;0,45
+yi;EastAsian-South Korea;0,92;Asia;49;60;109;0,449541284
+yan;EastAsian-Chinese;0,57;Asia;31;38;69;0,449275362
+yang;EastAsian-Chinese;0,86;Asia;48;59;107;0,448598131
+timothy;African-EastAfrican;0,41;Africa;16;20;36;0,444444444
+ma;Muslim-Maghreb;0,37;Africa;17;22;39;0,435897436
+feng;EastAsian-Chinese;0,92;Asia;17;22;39;0,435897436
+chien;EastAsian-Indochina-Vietnam;0,9;Asia;20;26;46;0,434782609
+li;EastAsian-Chinese;0,93;Asia;97;128;225;0,431111111
+fang;EastAsian-Chinese;0,84;Asia;28;37;65;0,430769231
+lisa;European-German;0,39;Europe;23;31;54;0,425925926
+john;Celtic-English;0,66;Europe;40;54;94;0,425531915
+chung;EastAsian-Chinese;0,85;Asia;16;22;38;0,421052632
+jin;EastAsian-South Korea;0,87;Asia;26;36;62;0,419354839
+susan;Celtic-English;0,73;Europe;47;66;113;0,415929204
+sun;EastAsian-Chinese;0,45;Asia;24;34;58;0,413793103
+stanley;African-WestAfrican;0,4;Africa;30;46;76;0,394736842
+stanley;Celtic-English;0,4;Europe;30;46;76;0,394736842
+jean;European-French;0,98;Europe;15;23;38;0,394736842
+huang;EastAsian-Chinese;0,96;Asia;39;60;99;0,393939394
+perlman;EastAsian-Chinese;0,23;Asia;28;44;72;0,388888889
+perlman;Celtic-English;0,23;Europe;28;44;72;0,388888889
+gary;Celtic-English;0,76;Europe;15;24;39;0,384615385
+joseph;African-EastAfrican;0,32;Africa;16;26;42;0,380952381
+perlman stanley;Celtic-English;0,39;Europe;27;44;71;0,38028169
+william;Celtic-English;0,5;Europe;12;20;32;0,375
+robert;Celtic-English;0,33;Europe;24;42;66;0,363636364
+chan;EastAsian-Chinese;0,99;Asia;36;67;103;0,349514563
+enjuanes;Hispanic-Spanish;0,53;Europe;22;41;63;0,349206349
+hung;EastAsian-Indochina-Vietnam;0,93;Asia;22;41;63;0,349206349
+shi;EastAsian-Chinese;0,79;Asia;15;28;43;0,348837209
+paul;Celtic-English;0,56;Europe;39;74;113;0,345132743
+enjuanes luis;Hispanic-Spanish;0,46;Europe;21;40;61;0,344262295
+jiang;EastAsian-Chinese;0,89;Asia;20;39;59;0,338983051
+guo;EastAsian-Chinese;0,91;Asia;14;28;42;0,333333333
+peng;EastAsian-Chinese;0,93;Asia;14;28;42;0,333333333
+cheng;EastAsian-Chinese;0,99;Asia;26;53;79;0,329113924
+christopher;Celtic-English;0,66;Europe;12;25;37;0,324324324
+luis;Hispanic-Spanish;0,85;Europe;23;48;71;0,323943662
+alexander;Celtic-English;0,46;Europe;11;24;35;0,314285714
+ding;EastAsian-Chinese;0,85;Asia;13;30;43;0,302325581
+benjamin;Europe- French;0,49;Europe;12;28;40;0,3
+tao;EastAsian-Indochina-Vietnam;0,76;Asia;11;26;37;0,297297297
+jian;EastAsian-Chinese;0,78;Asia;16;38;54;0,296296296
+andrew;European-French;0,31;Europe;19;47;66;0,287878788
+van der;European-German;;Europe;12;30;42;0,285714286
+rottier;European-French;0,98;Europe;15;38;53;0,283018868
+wong;EastAsian-Chinese;0,99;Asia;13;33;46;0,282608696
+xiang;EastAsian-Chinese;0,78;Asia;12;31;43;0,279069767
+zhou;EastAsian-Chinese;0,71;Asia;16;42;58;0,275862069
+matthew;Celtic-English;0,78;Europe;14;37;51;0,274509804
+der;European-German;0,8;Europe;12;32;44;0,272727273
+daniel;European-French;0,16;Europe;9;24;33;0,272727273
+lia;EastEasian-Malay-Indonesia;0,9;Asia;9;24;33;0,272727273
+mark;Celtic-English;0,78;Europe;22;59;81;0,271604938
+peiris;Celtic-English;0,77;Europe;11;31;42;0,261904762
+rottier peter;European-French;;Europe;12;34;46;0,260869565
+baker;Celtic-English;0,75;Europe;9;26;35;0,257142857
+van;EastAsian-Indochina-Vietnam;0,98;Asia;29;87;116;0,25
+peter;Celtic-English;0,33;Europe;31;96;127;0,244094488
+vincent;European-French;0,74;Europe;10;33;43;0,23255814
+jan;Celtic-English;0,28;Europe;15;50;65;0,230769231
+zheng;EastAsian-Chinese;0,89;Asia;12;42;54;0,222222222
+ali;Muslim-Nubian;0,4;Africa;8;28;36;0,222222222
+yuen;EastAsian-Chinese;1;Asia;14;50;64;0,21875
+te;Hispanic-Spanish;0,69;Europe;9;33;42;0,214285714
+woo;EastAsian-South Korea;0,83;Asia;13;48;61;0,213114754
+al;Muslim-ArabianPeninsula;0,56;Asia;14;54;68;0,205882353
+yung;EastAsian-Chinese;0,9;Asia;11;44;55;0,2
+lau;EastAsian-Chinese;0,99;Asia;10;40;50;0,2
+christian;European-French;0,6;Europe;12;50;62;0,193548387
+du;EastAsian-Indochina-Vietnam;0,6;Asia;6;26;32;0,1875
+muller;European-French;0,83;Europe;7;31;38;0,184210526
+kwok;EastAsian-Chinese;1;Asia;11;49;60;0,183333333
+patrick;European-German;0,38;Europe;11;51;62;0,177419355
+poon;EastAsian-Chinese;1;Asia;6;29;35;0,171428571
+ralph;Celtic-English;0,74;Europe;13;63;76;0,171052632
+graham;Celtic-English;1;Europe;6;30;36;0,166666667
+baric ralph;Celtic-English;0,53;Europe;12;63;75;0,16
+baric;European-SouthSlavs;0,84;Europe;12;64;76;0,157894737
+kwok yung;EastAsian-Chinese;0,98;Asia;8;44;52;0,153846154
+yuen kwok yung;EastAsian-Chinese;0,98;Asia;8;44;52;0,153846154
+stefan;European-Italian-Romania;0,54;Europe;6;33;39;0,153846154
+yuen kwok;EastAsian-Chinese;0,96;Asia;8;46;54;0,148148148
+bosch;European-German;0,49;Europe;5;29;34;0,147058824
+susanna;Nordic-Finland;0,51;Europe;5;33;38;0,131578947
+eric;European-French;0,82;Europe;8;54;62;0,129032258
+drosten;European-German;0,54;Europe;6;41;47;0,127659574
+chan kwok hung;EastAsian-Chinese;1;Asia;4;28;32;0,125
+kwok hung;EastAsian-Chinese;1;Asia;4;28;32;0,125
+chan kwok;EastAsian-Chinese;1;Asia;4;29;33;0,121212121
+bosch berend;European-German;0,6;Europe;4;29;33;0,121212121
+berend;European-German;0,9;Europe;4;30;34;0,117647059
+lau susanna;EastAsian-Chinese;0,78;Asia;4;32;36;0,111111111
+drosten christian;European-German;;Europe;5;41;46;0,108695652
+woo patrick;EastAsian-Chinese;0,2;Asia;4;37;41;0,097560976
+woo patrick;EastEasian-Malay-Malaysia;0,2;Asia;4;37;41;0,097560976
+bart;European-German;0,37;Europe;2;32;34;0,058823529
+haagmans bart;European-French;0,33;Europe;2;32;34;0,058823529
+haagmans;European-German;0,48;Europe;2;33;35;0,057142857
